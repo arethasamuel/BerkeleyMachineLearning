@@ -42,3 +42,35 @@ Acceptance Rate for All Other Drivers: 29.60%
 Next, I visualized the occupational data of the drivers to determine if specific occupations were more likely to influence the use of bar coupons. This analysis aimed to identify trends in coupon acceptance based on occupational groups.
 
 ![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/occupation2.png)
+
+Next i compared  the acceptance rates between those drivers who:
+go to bars more than once a month, had passengers that were not a kid, and were not widowed OR
+go to bars more than once a month and are under the age of 30 OR
+go to cheap restaurants more than 4 times a month and income is less than 50K.
+
+This Group's acceptance rate was 56.96%
+
+### Insights on Bar Coupon Acceptance
+
+Drivers who accept bar coupons exhibit several common characteristics:
+
+1. **Frequency of Bar Visits**:  
+   - Regular bar-goers (visiting more than three times a month) are significantly more likely to accept bar coupons compared to those who visit bars less frequently.
+
+2. **Age and Bar Visits**:  
+   - Drivers aged 25 and older who visit bars more than once a month demonstrate a higher likelihood of using bar coupons.
+
+3. **Passengers and Occupation**:  
+   - Drivers with passengers other than children and occupations outside farming, fishing, or forestry are more inclined to use bar coupons.  
+   - Occupations such as **Architecture and Engineering**, **Production**, and **Healthcare Support** show a particularly strong correlation with bar coupon acceptance.
+
+4. **Additional Influencing Factors**:  
+   - **High Bar Visit Frequency**: Drivers who visit bars more than once a month, combined with the absence of children as passengers or being under 30 years old, are more likely to accept bar coupons.  
+   - **Inexpensive Restaurant Visits**: Frequent visits to inexpensive restaurants (4+ times per month) paired with lower income levels (<$50,000) also increase the likelihood of bar coupon usage.
+
+---
+
+### Hypothesis:  
+Drivers who accept bar coupons tend to be regular bar patrons, often accompanied by companions other than children, and are more likely to work in professions outside farming, fishing, or forestry. Occupations such as **Architecture and Engineering**, **Production**, and **Healthcare Support** are particularly associated with higher coupon acceptance. Young bar-goers who visit bars frequently are also more inclined to use these coupons. Additionally, patrons with lower incomes who frequently visit inexpensive restaurants are more likely to accept bar coupons.  
+
+This combination of lifestyle, demographics, and occupation suggests a clear profile of drivers who are most responsive to bar coupon offers.
