@@ -76,3 +76,19 @@ Drivers who accept bar coupons exhibit several common characteristics:
 Drivers who accept bar coupons tend to be regular bar patrons, often accompanied by companions other than children, and are more likely to work in professions outside farming, fishing, or forestry. Occupations such as **Architecture and Engineering**, **Production**, and **Healthcare Support** are particularly associated with higher coupon acceptance. Young bar-goers who visit bars frequently are also more inclined to use these coupons. Additionally, patrons with lower incomes who frequently visit inexpensive restaurants are more likely to accept bar coupons.  
 
 This combination of lifestyle, demographics, and occupation suggests a clear profile of drivers who are most responsive to bar coupon offers.
+
+--- **Analysis of Users that accepted Coffee Coupons
+Next, I analyzed the data for coffee coupons and found that the overall acceptance rate was **49.92%**.
+
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffee.png)
+
+I then compared the acceptance rates for coffee coupons between two groups:  
+
+- **Drivers who visited a coffee house 3 or fewer times a month**.  
+- **Drivers who visited a coffee house more than 3 times a month**.  
+
+The analysis revealed the following acceptance rates for coffee coupons:
+
+Drivers with fewer than 3 coffee house visits per month: 44.96% acceptance rate.
+Drivers with more than 3 coffee house visits per month: 67.50% acceptance rate.
+
