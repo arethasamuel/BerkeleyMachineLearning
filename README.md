@@ -10,7 +10,12 @@ I conducted a basic analysis of the coupon acceptance data and found the followi
 
 The overall coupon acceptance rate is 56.84%.
 
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/totalcouponacceptance.png)
+
 The top occupations with the highest coupon acceptance rates are:
 Healthcare Support: 69.83%
 Construction and Extraction: 68.83%
 Healthcare Practitioners and Technical: 67.6%
+
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/totalcouponacceptance.png)
+
