@@ -123,6 +123,8 @@ I also created a graph to visualize coffee coupon acceptances across various occ
 Here's an analysis with the acceptance rate of each occupation. 
 ![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffeerateoccupation.png)
 
+### Insights on Coffee Coupon Acceptance
+
 Based on the analysis of the coffee coupons data, drivers who accepted the Coffee House coupons appear to be younger (under 40), with students and those in healthcare industries showing a particularly higher acceptance rate. 
 
 While frequent coffee house visits (more than 3 times a month) correlate with higher acceptance, the age factor also affects the acceptance rate.  
