@@ -77,7 +77,8 @@ Drivers who accept bar coupons tend to be regular bar patrons, often accompanied
 
 This combination of lifestyle, demographics, and occupation suggests a clear profile of drivers who are most responsive to bar coupon offers.
 
---- **Analysis of Users that accepted Coffee Coupons
+--- 
+**Analysis of Users that accepted Coffee Coupons**
 Next, I analyzed the data for coffee coupons and found that the overall acceptance rate was **49.92%**.
 
 ![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffee.png)
@@ -95,8 +96,7 @@ Drivers with more than 3 coffee house visits per month: 67.50% acceptance rate.
 
 Next, I compared the acceptance rates for coffee coupons between the following groups:
 
-Drivers who visit a coffee house more than once a month and are younger than 40 years old.
-All other drivers.
+Drivers who visit a coffee house more than once a month and are younger than 40 years old, versus all other drivers.
 
 The analysis showed the following acceptance rates for coffee coupons:
 
@@ -127,8 +127,8 @@ Based on the analysis of the coffee coupons data, drivers who accepted the Coffe
 
 While frequent coffee house visits (more than 3 times a month) correlate with higher acceptance, the age factor also affects the acceptance rate.  
 
-In other words, youth, regardless of how often they visit coffee houses, is a one predictor of coupon acceptance, followed by occupation (building & grounds cleaning maintenance and students and healthcare workers, and Transportation) are among the top 5 professions to use the coffee coupons.
+In other words, youth, regardless of how often they visit coffee houses, age is one predictor of coupon acceptance, followed by occupation.  Building & Grounds cleaning maintenance, Students, Healthcare workers, and Transportation are among the top 5 professions to use the coffee coupons.
 
 Age Influence: Students, who typically fall into younger age groups, may have lifestyles that align with higher coffee consumption. This likely contributes to younger drivers being more inclined to accept coffee coupons.
 
-Occupation Influence: Occupations that demand higher levels of alertness or long working hours—such as healthcare workers, drivers, or those in technical roles—could naturally correlate with a higher acceptance rate for coffee coupons. These individuals may view coffee as a necessity to stay focused and energized, making them more responsive to such promotions.
+Occupation Influence: Occupations that demand higher levels of alertness or long working hours—such as healthcare workers, drivers, or those in technical roles—could naturally correlate with a higher acceptance rate for coffee coupons. These individuals may view coffee as a necessity to stay focused and energized.
