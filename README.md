@@ -109,9 +109,11 @@ Drivers younger than 40 years old: 51.27% acceptance rate.
 Drivers 40 years old and above: 46.33% acceptance rate.
 This indicates that younger drivers are slightly more likely to accept coffee coupons compared to older drivers.
 
-I also created a visualization showing the count of coffee coupon acceptances segmented by the age of drivers. This plot helps to identify trends and patterns in coupon acceptance across different age groups.
+I also created a visualization showing the count of coffee coupon acceptances segmented by the age of drivers. This plot helps to identify trends and patterns in coupon acceptance across different age groups. Below is the count.  Notice the younger drivers have a higher acceptance rates.
 
 ![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffeecountage.png)
+
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffeecouponagerate.png)
 
 I also created a graph to visualize coffee coupon acceptances across various occupations. This analysis highlights which occupational groups are more likely to accept coffee coupons.
 
