@@ -17,5 +17,7 @@ Healthcare Support: 69.83%
 Construction and Extraction: 68.83%
 Healthcare Practitioners and Technical: 67.6%
 
-![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/totalcouponacceptance.png)
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/occupation.png)
 
+The most frequently accepted coupons were for **coffee** and **least expensive restaurants**. Additionally, these coupons were most commonly redeemed around **2 PM in the afternoon**.
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/time.png)
