@@ -92,3 +92,41 @@ The analysis revealed the following acceptance rates for coffee coupons:
 Drivers with fewer than 3 coffee house visits per month: 44.96% acceptance rate.
 Drivers with more than 3 coffee house visits per month: 67.50% acceptance rate.
 
+
+Next, I compared the acceptance rates for coffee coupons between the following groups:
+
+Drivers who visit a coffee house more than once a month and are younger than 40 years old.
+All other drivers.
+
+The analysis showed the following acceptance rates for coffee coupons:
+
+Drivers with more than 1 coffee house visit per month and under 40 years old: 66.71% acceptance rate.
+All other drivers: 40.45% acceptance rate.
+
+The analysis of coffee coupon acceptance based on age revealed the following:
+
+Drivers younger than 40 years old: 51.27% acceptance rate.
+Drivers 40 years old and above: 46.33% acceptance rate.
+This indicates that younger drivers are slightly more likely to accept coffee coupons compared to older drivers.
+
+I also created a visualization showing the count of coffee coupon acceptances segmented by the age of drivers. This plot helps to identify trends and patterns in coupon acceptance across different age groups.
+
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffeecountage.png)
+
+I also created a graph to visualize coffee coupon acceptances across various occupations. This analysis highlights which occupational groups are more likely to accept coffee coupons.
+
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffeecountoccupation.png)
+
+
+Here's an analysis with the acceptance rate of each occupation. 
+![alt text](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/images/coffeerateoccupation.png)
+
+Based on the analysis of the coffee coupons data, drivers who accepted the Coffee House coupons appear to be younger (under 40), with students and those in healthcare industries showing a particularly higher acceptance rate. 
+
+While frequent coffee house visits (more than 3 times a month) correlate with higher acceptance, the age factor also affects the acceptance rate.  
+
+In other words, youth, regardless of how often they visit coffee houses, is a one predictor of coupon acceptance, followed by occupation (building & grounds cleaning maintenance and students and healthcare workers, and Transportation) are among the top 5 professions to use the coffee coupons.
+
+Age Influence: Students, who typically fall into younger age groups, may have lifestyles that align with higher coffee consumption. This likely contributes to younger drivers being more inclined to accept coffee coupons.
+
+Occupation Influence: Occupations that demand higher levels of alertness or long working hours—such as healthcare workers, drivers, or those in technical roles—could naturally correlate with a higher acceptance rate for coffee coupons. These individuals may view coffee as a necessity to stay focused and energized, making them more responsive to such promotions.
