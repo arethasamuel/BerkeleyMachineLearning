@@ -2,6 +2,8 @@
 
 Required Assignment 5.1: Will the Customer Accept the Coupon?
 
+![Link to my notebook](https://github.com/arethasamuel/BerkeleyMachineLearning/blob/main/Module5.ipynb)
+
 brief report that highlights the differences between customers who did and did not accept the coupons.
 
 Summary of Findings
